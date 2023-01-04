@@ -9,7 +9,7 @@ count = 1
 
 originpath = 'origin/'
 transferpath = 'transfer/'  #原始帧的路径和转换后帧的路径 一定要加 / 
-videofilepath = 'trump.mp4'    #文件路径可自己定义
+videofilepath = 'unravel.mp4'    #文件路径可自己定义
 
 video2img(videofilepath,originpath)
 
